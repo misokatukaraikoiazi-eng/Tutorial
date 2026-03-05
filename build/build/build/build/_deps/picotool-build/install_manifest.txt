@@ -1,0 +1,6 @@
+/workspaces/Tutorial/build/build/build/build/_deps/picotool/picotool
+/workspaces/Tutorial/build/build/build/build/_deps/picotool/picotoolTargets.cmake
+/workspaces/Tutorial/build/build/build/build/_deps/picotool/picotoolTargets-release.cmake
+/workspaces/Tutorial/build/build/build/build/_deps/picotool/picotoolConfig.cmake
+/workspaces/Tutorial/build/build/build/build/_deps/picotool/picotoolConfigVersion.cmake
+/workspaces/Tutorial/build/build/build/build/_deps/picotool/enc_bootloader.elf
